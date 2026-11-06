@@ -8,5 +8,5 @@ metadata:
   
 spec:
   type: service
-  owner: petstore-admin@example.com
+  owner: development
   lifecycle: experimental
