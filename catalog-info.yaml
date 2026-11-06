@@ -5,7 +5,7 @@ metadata:
   description: this is a python application displays time details
   annotations:
    github.com/project-slug: bhavanikp84/python-app
-  
+   backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: development
